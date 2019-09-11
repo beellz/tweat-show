@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    height: 400px; 
+}
+
+.label {
+    padding: 10px 10px;
+}
+
+.textarea {
+    padding: 5px;
+}
