@@ -12,3 +12,7 @@
 .textarea {
     padding: 5px;
 }
+
+#element {
+    border: 1.5px solid burlywood;
+}
