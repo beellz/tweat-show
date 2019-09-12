@@ -13,6 +13,7 @@
     padding: 5px;
 }
 
-#element {
-    border: 1.5px solid burlywood;
+.look {
+    border: 2px solid palegoldenrod;
+    margin: 2px;
 }
